@@ -5,9 +5,7 @@
 <h3 align="left">Languages :</h3>
 
 
-<img src="https://camo.githubusercontent.com/9dc13886de1b9b242fbe3d64c0dc039b0c8e24564919b7cc478263c5091e2b22/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f68746d6c2d352e706e67" alt="HTML5" data-canonical-src="https://img.icons8.com/color/35/html-5.png" style="max-width: 100%;">
-
-<img src="https://camo.githubusercontent.com/153adf7f168c2062091a47b9cdb88eab71b97b896aaad97d0f2f0652de0b8ee0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f637373332e706e67" alt="CSS3" data-canonical-src="https://img.icons8.com/color/35/css3.png" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/9dc13886de1b9b242fbe3d64c0dc039b0c8e24564919b7cc478263c5091e2b22/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f68746d6c2d352e706e67" alt="HTML5" data-canonical-src="https://img.icons8.com/color/35/html-5.png" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/153adf7f168c2062091a47b9cdb88eab71b97b896aaad97d0f2f0652de0b8ee0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f637373332e706e67" alt="CSS3" data-canonical-src="https://img.icons8.com/color/35/css3.png" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/20c71b805c080678f7c6c35006fb597e4918423e8aaabef8de3f41dc458d54f2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f707974686f6e2d2d76312e706e67" alt="Python" data-canonical-src="https://img.icons8.com/color/35/python--v1.png" style="max-width: 100%;">
 
