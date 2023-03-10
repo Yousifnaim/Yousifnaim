@@ -1,5 +1,4 @@
- 👋
-<code>echo "Hi there, It's Yousif!" &gt; Visitor.hello</code>
+ ###👋Hi there, It's Yousif!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=49F71A&background=000000EE&center=true&vCenter=true&width=435&lines=Welcome+To+3arab+;This+is+my+Industry;Quality+Assurance;Software+Testing;SDET;Hack+also+quality)](https://git.io/typing-svg)
 
 <h3 align="left">Languages :</h3>
