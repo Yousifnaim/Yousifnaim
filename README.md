@@ -10,7 +10,5 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-
-  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+<img align="right" alt="Coding" width="400" src="https://blog.testproject.io/wp-content/uploads/2020/10/8-10-C.jpg">
 
