@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=49F71A&background=000000EE&center=true&vCenter=true&width=435&lines=Welcome+To+3arab+;This+is+my+Industry;Quality+Assurance;Software+Testing;SDET;Hack+also+quality)](https://git.io/typing-svg)
 
 
-Yousif is a Software Engineer and Specialzet in Software Quality Assurance , With a hobby in Pentreation Test . 
-
+Yousif is a Software Engineer and Specialist in Software Quality Assurance, With a hobby in Penetration Test.
 
 
 <h3 align="left">Languages :</h3>
